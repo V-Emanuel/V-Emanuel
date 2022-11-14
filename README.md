@@ -21,7 +21,7 @@
   <img style="margin-left: 20px" align="center" title="GitHub" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="margin-left: 20px" align="center" title="Nupyter Notebook" alt="jupyter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img style="margin-left: 20px" align="center" title="Jupyter Notebook" alt="jupyter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img style="margin-left: 20px" align="center" title="Latex" alt="latex" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
   <img style="margin-left: 20px" align="center" title="Linux" alt="linux" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img style="margin-left: 20px" align="center" title="Matlab" alt="matlab" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
