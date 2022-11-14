@@ -1,8 +1,8 @@
 ### Hi Friend 🖖
 
 - 📚 I'm Engineering and web dev student;
-- 🤖 Learning new technologies is one of my greatest pleasures.
-
+- 🤖 Learning new technologies is one of my greatest pleasures;
+- ♟️ Sometimes I try to play chess, but I always fail,
 
 ### You can reach me here:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-guimar%C3%A3es-8b59701a5/)
