@@ -2,7 +2,6 @@
 
 - 📚 I'm Engineering and web dev student;
 - 🤖 Learning new technologies is one of my greatest pleasures;
-- 
 
 
 ### You can reach me here:
@@ -27,7 +26,7 @@
   <img style="margin-left: 20px" align="center" title="latex" alt="latex" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
   <img style="margin-left: 20px" align="center" title="linux" alt="linux" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img style="margin-left: 20px" align="center" title="matlab" alt="matlab" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-  <img style="margin-left: 20px" align="center" title="verilog" alt="verilog" width="50"  src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"/>
+  <img style="margin-left: 20px" align="center" title="verilog" alt="verilog" width="50"  src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true"/>
   
   <br />
   <br />
