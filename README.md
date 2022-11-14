@@ -2,7 +2,7 @@
 
 - 📚 I'm Engineering and web dev student;
 - 🤖 Learning new technologies is one of my greatest pleasures;
-- ♟️ Sometimes I try to play chess, but I always fail,
+- ♟️ Sometimes I try to play chess, but I always fail.
 
 ### You can reach me here:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-guimar%C3%A3es-8b59701a5/)
@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Others Languages, tools and technologies:
+#### Others languages, tools and technologies:
 <div style="display: inline_block"><br>
   <img style="margin-left: 20px" align="center" title="VS Code" alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
