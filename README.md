@@ -17,15 +17,15 @@
 <div style="display: inline_block"><br>
   <img style="margin-left: 20px" align="center" title="VS Code" alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img style="margin-left: 20px" align="center" title="C++" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img style="margin-left: 20px" align="center" title="GitHub" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="margin-left: 20px" align="center" title="jupyter" alt="jupyter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img style="margin-left: 20px" align="center" title="latex" alt="latex" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-  <img style="margin-left: 20px" align="center" title="linux" alt="linux" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img style="margin-left: 20px" align="center" title="matlab" alt="matlab" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-  <img style="margin-left: 20px" align="center" title="verilog" alt="verilog" width="50"  src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true"/>
+  <img style="margin-left: 20px" align="center" title="Nupyter Notebook" alt="jupyter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img style="margin-left: 20px" align="center" title="Latex" alt="latex" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+  <img style="margin-left: 20px" align="center" title="Linux" alt="linux" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img style="margin-left: 20px" align="center" title="Matlab" alt="matlab" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img style="margin-left: 20px" align="center" title="Verilog" alt="verilog" width="50"  src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true"/>
   
   <br />
   <br />
