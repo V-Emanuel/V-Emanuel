@@ -19,7 +19,7 @@
   <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img style="margin-left: 20px" align="center" title="GitHub" alt="GitHub" height="30" width="30" src="https://github.githubassets.com/favicons/favicon-dark.png">
-  <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img style="margin-left: 20px" align="center" title="Git" alt="Git" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img style="margin-left: 20px" align="center" title="Python" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="margin-left: 20px" align="center" title="jupyter" alt="jupyter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img style="margin-left: 20px" align="center" title="latex" alt="latex" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
