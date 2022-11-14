@@ -1,7 +1,7 @@
 ### Hi Friend 🖖
 
 - 📚 I'm Engineering and web dev student;
-- 🤖 Learning new technologies is one of my greatest pleasures;
+- 🤖 Learning new technologies is one of my greatest pleasures.
 
 
 ### You can reach me here:
