@@ -27,6 +27,8 @@
   <img style="margin-left: 20px" align="center" title="Linux" alt="linux" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img style="margin-left: 20px" align="center" title="Matlab" alt="matlab" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
   <img style="margin-left: 20px" align="center" title="Verilog" alt="verilog" width="50"  src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true"/>
+  <img style="margin-left: 20px" align="center" title="MongoDB" alt="MongoDB" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  
   
   <br />
   <br />
