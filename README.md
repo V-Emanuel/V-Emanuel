@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0B3147?style=for-the-badge&logo=prisma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=prisma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=jest&logoColor=white)
 
 #### Others languages, tools and technologies:
 <div style="display: inline_block"><br>
