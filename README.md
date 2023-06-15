@@ -22,6 +22,7 @@
 
 #### Others languages, tools and technologies:
 <div style="display: inline_block"><br>
+   <img style="margin-left: 20px" align="center" title="PHP" alt="PHP" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img style="margin-left: 20px" align="center" title="VS Code" alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img style="margin-left: 20px" align="center" title="C" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img style="margin-left: 20px" align="center" title="C++" alt="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
