@@ -1,6 +1,6 @@
 ### Hi Friend 🖖
 
-- 📚 I'm Engineering and web dev student;
+- 📚 I'm web dev and Engineering student;
 - 🤖 Learning new technologies is one of my greatest pleasures;
 - ♟️ Sometimes I try to play chess, but I always fail.
 
